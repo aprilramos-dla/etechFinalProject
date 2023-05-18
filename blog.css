@@ -4,14 +4,14 @@
     margin-top: 0%;
 }
 
-.h1{
+.h2{
     font-family: lucida sans;
+    margin: auto;
+    font-size: large;
+    font-weight: bolder;
     text-align: center;
-    align-items: center;
 }
 
 .card-body{
     background-color: rgba(255, 227, 232, 0.616);
 }
-
-
