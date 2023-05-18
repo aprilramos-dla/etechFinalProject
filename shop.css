@@ -2,13 +2,12 @@
     height: 50px;
     padding-top: 0%;
     margin-top: 0%;
+    margin-bottom: 30px;
 }
 
 .h1{
     font-family: lucida sans;
     text-align: center;
-    
-    margin-top: 40px;
 }
 
 .p1{
@@ -16,128 +15,102 @@
     font-size: 17px;
     font-family: lucida sans regular;
 
-    margin-bottom: 30px;
+    margin-bottom: 50px;
 }
 
+.j-name{
+    font-family: lucida sans;
+    font-weight: bold;
+}
+
+.desc{
+    font-family: lucida sans regular;
+    font-size: 13px;
+    text-align: center;
+}
 
 .pomegranate-juice{
     width: 200x;
     height: 200px;   
     border-radius: 15px 50px 30px 5px;
-}
-
-.pomegranate{
-    font-family: lucida sans;
-    font-weight: bold;
+    border: 10px solid rgba(255, 176, 189, 0.306);
 }
 
 .apple-juice{
     width: 200px;
     height: 200px;
     border-radius: 15px 50px 30px 5px;
-}
-
-.apple{
-    font-family: lucida sans;
-    font-weight: bold;
+    border: 10px solid rgba(255, 176, 189, 0.306);
 }
 
 .grape-juice{
     width: 200px;
     height: 200px;
     border-radius: 15px 50px 30px 5px;
-}
-
-.grape{
-    font-family: lucida sans;
-    font-weight: bold;
+    border: 10px solid rgba(255, 176, 189, 0.306);
 }
 
 .avocado-juice{
     width: 200px;
     height: 200px;
     border-radius: 15px 50px 30px 5px;
-}
-
-.avocado{
-    font-family: lucida sans;
-    font-weight: bold;
+    border: 10px solid rgba(255, 176, 189, 0.306);
 }
 
 .blueberry-juice{
     width: 200px;
     height: 200px;
     border-radius: 15px 50px 30px 5px;
+    border: 10px solid rgba(255, 176, 189, 0.306);
 
     margin-top: 50px;
-}
-
-.blueberry{
-    font-family: lucida sans;
-    font-weight: bold;
 }
 
 .kiwi-juice{
     width: 200px;
     height: 200px;
     border-radius: 15px 50px 30px 5px;
+    border: 10px solid rgba(255, 176, 189, 0.306);
 
     margin-top: 50px;
-}
-
-.kiwi{
-    font-family: lucida sans;
-    font-weight: bold;
 }
 
 .orange-juice{
     width: 200px;
     height: 200px;
     border-radius: 15px 50px 30px 5px;
+    border: 10px solid rgba(255, 176, 189, 0.306);
 
     margin-top: 50px;
-}
-
-.orange{
-    font-family: lucida sans;
-    font-weight: bold;
 }
 
 .watermelon-juice{
     width: 200px;
     height: 200px;
     border-radius: 15px 50px 30px 5px;
+    border: 10px solid rgba(255, 176, 189, 0.306);
 
     margin-top: 50px;
-}
-
-.watermelon{
-    font-family: lucida sans;
-    font-weight: bold;
 }
 
 .strawberry-juice{
     width: 200px;
     height: 200px;
     border-radius: 15px 50px 30px 5px;
+    border: 10px solid rgba(255, 176, 189, 0.306);
 
     margin-top: 50px;
-}
-
-.strawberry{
-    font-family: lucida sans;
-    font-weight: bold;
 }
 
 .lemon-juice{
     width: 200px;
     height: 200px;
     border-radius: 15px 50px 30px 5px;
+    border: 10px solid rgba(255, 176, 189, 0.306);
 
     margin-top: 50px;
 }
 
-.lemon{
-    font-family: lucida sans;
-    font-weight: bold;
+.cart{
+    font-size: 13px;
 }
