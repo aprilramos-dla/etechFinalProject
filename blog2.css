@@ -4,10 +4,14 @@
     margin-top: 0%;
 }
 
+.navbar .navbar-nav .nav-link:hover{
+    background-color: pink;
+    color: rgb(98, 11, 26);
+}
+
 .blog2header{
     height:540px;
     width: 1920px;
-    margin-bottom: 50px;
 }
 
 .h1{

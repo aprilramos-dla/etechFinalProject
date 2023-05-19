@@ -5,6 +5,11 @@
     margin-bottom: 30px;
 }
 
+.navbar .navbar-nav .nav-link:hover{
+    background-color: pink;
+    color: rgb(98, 11, 26);
+}
+
 .h1{
     font-family: lucida sans;
     text-align: center;

@@ -3,3 +3,8 @@
     padding-top: 0%;
     margin-top: 0%;
 }
+
+.navbar .navbar-nav .nav-link:hover{
+    background-color: pink;
+    color: rgb(98, 11, 26);
+}

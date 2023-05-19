@@ -4,6 +4,11 @@
     margin-top: 0%;
 }
 
+.navbar .navbar-nav .nav-link:hover{
+    background-color: pink;
+    color: rgb(98, 11, 26);
+}
+
 .blog1header{
     height:540px;
     width: 1920px;
@@ -17,4 +22,8 @@
 
 .p5{
     margin-bottom: 90px;
+}
+
+.comment{
+    margin-left: 100px;
 }
